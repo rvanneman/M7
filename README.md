@@ -1,0 +1,3 @@
+I generated this piece with live coding. I created the keyboard function first and then built the others off of it. I wanted to start with a soft xylophone/piano sound and gradually have other layers of sound fill in. It took a lot of attempts and failures to find something that flowed, and I only made one melody that I was really proud of. 
+
+In the future I'd consider random generation of chords that tend to flow well together, but I'd want to figure out the mathmatical relations there and create a formula that the notes would be generated from within in relation to the last note. I tried something similar to this, but wasn't pleased with the generation.
